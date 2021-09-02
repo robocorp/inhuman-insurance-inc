@@ -1,1 +1,1 @@
-<script src="/sales-system-api.js"></script>
+<script src="sales-system-api.js"></script>
